@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "204519090912",
+    "project_id": "testing-dedb6",
+    "storage_bucket": "testing-dedb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204519090912:android:c78aa70c84eeba71607e85",
+        "android_client_info": {
+          "package_name": "com.example.mad_project.nano_finance_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204519090912-qnrovbg1ret0fi8ttu8ke2ag2k8f0iv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mad_project.nano_finance_",
+            "certificate_hash": "ff07b96f6f161664cc8d948375ba61f0d31b26b2"
+          }
+        },
+        {
+          "client_id": "204519090912-iuhqrtjqa33heol46os47488i87lbnkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb98PKu8q5C6VuW8K__TNnYkSNGSW9-W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204519090912-iuhqrtjqa33heol46os47488i87lbnkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
