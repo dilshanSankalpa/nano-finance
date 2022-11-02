@@ -37,6 +37,57 @@
             {
               "client_id": "204519090912-iuhqrtjqa33heol46os47488i87lbnkp.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "204519090912-o4cj9tmfk81fcri9cfql03ntkg4nk1n5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nanoFinance"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204519090912:android:15b9b19ae5c4695b607e85",
+        "android_client_info": {
+          "package_name": "com.example.nano_finance_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204519090912-kcnlhudg7k3t7sj3ocq74mdo7orqad7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nano_finance_",
+            "certificate_hash": "ff07b96f6f161664cc8d948375ba61f0d31b26b2"
+          }
+        },
+        {
+          "client_id": "204519090912-iuhqrtjqa33heol46os47488i87lbnkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb98PKu8q5C6VuW8K__TNnYkSNGSW9-W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204519090912-iuhqrtjqa33heol46os47488i87lbnkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204519090912-o4cj9tmfk81fcri9cfql03ntkg4nk1n5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nanoFinance"
+              }
             }
           ]
         }
