@@ -36,7 +36,7 @@ class _PutTransactionState extends State<PutTransaction> {
             .snapshots(),
         builder: (BuildContext context, AsyncSnapshot<QuerySnapshot> snapshot) {
           if (!snapshot.hasData) {
-            return Center(
+            return const Center(
               child: CircularProgressIndicator(),
             );
           }
@@ -45,7 +45,6 @@ class _PutTransactionState extends State<PutTransaction> {
             children: snapshot.data!.docs.map((document) {
               return Card(
                 child: ListTile(
-                  // leading: FlutterLogo(size: 72.0),
                   title: Text('Put : Rs. ${document['amount']}'),
                   subtitle: Text(
                       "${document['description']}, ${timeStampToDate(document['date'].millisecondsSinceEpoch)}"),
